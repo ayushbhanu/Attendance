@@ -7,10 +7,11 @@ It is a attendance tracking app for teachers to add students which stored as a t
 
 ![screenshot_2018-03-30-00-38-10-743_com example hp1 attendance](https://user-images.githubusercontent.com/22625247/38134506-0c23283a-3446-11e8-9f56-7685a1fca04d.jpg )
 
-
-<a href="url"><img src="https://user-images.githubusercontent.com/22625247/38134506-0c23283a-3446-11e8-9f56-7685a1fca04d.jpg" width="250"></a><&nbsp&nbsp>
+<p>
+<a href="url"><img src="https://user-images.githubusercontent.com/22625247/38134506-0c23283a-3446-11e8-9f56-7685a1fca04d.jpg" width="250"></a>&nbsp
+  &nbsp
 <a href="url"><img src="https://user-images.githubusercontent.com/22625247/38134506-0c23283a-3446-11e8-9f56-7685a1fca04d.jpg" width="250"> </a>
-
+</>
 
 
 
