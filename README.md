@@ -1,7 +1,7 @@
 
 Attendance app
 
-It is a attendance tracking app for teachers to add students which stored as a text file in android phone and teachers can mark and unmark attendance by clicking on the name of students .
+It is an attendance tracking app for teachers to add students which stored as a text file in android phone and teachers can mark and unmark attendance by clicking on the name of students .
 
 
 <p>
